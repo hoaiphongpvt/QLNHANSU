@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5f3f5b09027744e1a5f38a2d406fd8ed" Name="Diagram1">
+        <EntityTypeShape EntityType="HRMModel.BANGCONG" Width="1.5" PointX="5.25" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.BOPHAN" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.CHUCVU" Width="1.5" PointX="0.75" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.HOPDONG" Width="1.5" PointX="5.25" PointY="11.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.LOAICA" Width="1.5" PointX="6" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.LOAICONG" Width="1.5" PointX="3" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.NHANVIEN" Width="1.5" PointX="3" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.NHANVIEN_PHUCAP" Width="1.5" PointX="8.25" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.PHONGBAN" Width="1.5" PointX="0.75" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.PHUCAP" Width="1.5" PointX="6" PointY="17.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.TANGCA" Width="1.5" PointX="8.25" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.TRINHDO" Width="1.5" PointX="0.75" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HRMModel.UNGLUONG" Width="1.5" PointX="3.875" PointY="19.375" IsExpanded="true" />
+        <AssociationConnector Association="HRMModel.FK_BANGCONG_LOAICONG" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_BANGCONG_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_NHANVIEN_BOPHAN" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_NHANVIEN_CHUCVU" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_HOPDONG_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_TANGCA_LOAICA" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_NHANVIEN_PHONGBAN" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_NHANVIEN_PHUCAP_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_NHANVIEN_TRINHDO" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_TANGCA_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_UNGLUONG_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="HRMModel.FK_NHANVIEN_PHUCAP_PHUCAP" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="HRMModel.KHENTHUONGKILUAT" Width="1.5" PointX="5.25" PointY="0.75" />
+        <AssociationConnector Association="HRMModel.FK_KHENTHUONGKILUAT_NHANVIEN" />
+        <EntityTypeShape EntityType="HRMModel.DIEUCHUYEN" Width="1.5" PointX="0.75" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,65 @@
+D:\Visual\C#\HRM\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Visual\C#\HRM\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Visual\C#\HRM\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Visual\C#\HRM\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Visual\C#\HRM\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Visual\C#\HRM\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual\C#\HRM\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Visual\C#\HRM\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\Visual\C#\HRM\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Visual\C#\HRM\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual\C#\HRM\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Visual\C#\HRM\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Visual\C#\HRM\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Visual\C#\HRM\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Visual\C#\HRM\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\BusinessLayer\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll

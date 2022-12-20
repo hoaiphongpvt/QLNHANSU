@@ -1,0 +1,24 @@
+D:\Visual\C#\HRM\DataLayer\bin\Debug\DataLayer.dll.config
+D:\Visual\C#\HRM\DataLayer\bin\Debug\DataLayer.dll
+D:\Visual\C#\HRM\DataLayer\bin\Debug\DataLayer.pdb
+D:\Visual\C#\HRM\DataLayer\bin\Debug\EntityFramework.dll
+D:\Visual\C#\HRM\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual\C#\HRM\DataLayer\bin\Debug\EntityFramework.xml
+D:\Visual\C#\HRM\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual\C#\HRM\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\Visual\C#\HRM\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\Visual\C#\HRM\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+D:\Visual\C#\HRM\DataLayer\obj\Debug\DataLayer.dll
+D:\Visual\C#\HRM\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,214 @@
+D:\Visual\C#\HRM\HRM\bin\Debug\HRM.exe.config
+D:\Visual\C#\HRM\HRM\bin\Debug\HRM.exe
+D:\Visual\C#\HRM\HRM\bin\Debug\HRM.pdb
+D:\Visual\C#\HRM\HRM\bin\Debug\BusinessLayer.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DataLayer.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Data.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Utils.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraBars.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\EntityFramework.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Drawing.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\BusinessLayer.pdb
+D:\Visual\C#\HRM\HRM\bin\Debug\BusinessLayer.dll.config
+D:\Visual\C#\HRM\HRM\bin\Debug\DataLayer.pdb
+D:\Visual\C#\HRM\HRM\bin\Debug\DataLayer.dll.config
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Data.v22.1.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraBars.v22.1.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\EntityFramework.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.csproj.AssemblyReference.cache
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.csproj.SuggestedBindingRedirects.cache
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.Properties.Resources.resources
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.exe.licenses
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.csproj.CopyComplete
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.exe
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.pdb
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.MainForm.resources
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Office.v22.1.Core.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.Office.v22.1.Core.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+D:\Visual\C#\HRM\HRM\obj\Debug\HRM.frmTrinhDo.resources
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+D:\Visual\C#\HRM\HRM\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\Visual\C#\HRM\HRM\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\HRM.exe.config
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\HRM.exe
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\HRM.pdb
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\BusinessLayer.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DataLayer.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\EntityFramework.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\BusinessLayer.pdb
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\BusinessLayer.dll.config
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DataLayer.pdb
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DataLayer.dll.config
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\EntityFramework.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.csproj.AssemblyReference.cache
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.frmTrinhDo.resources
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.MainForm.resources
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.frmPhongBan.resources
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.Properties.Resources.resources
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.csproj.GenerateResource.cache
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.exe.licenses
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.csproj.CoreCompileInputs.cache
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.csproj.CopyComplete
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.exe
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.pdb
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.frmBoPhan.resources
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.frmChucVu.resources
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.frmNhanVien.resources
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.frmHopDong.resources
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.frmKhenThuong.resources
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.frmKiLuat.resources
+C:\Users\hoaip\OneDrive\Desktop\Project QuanLyNhanSu\HRM\HRM\obj\Debug\HRM.frmDieuChuyen.resources
